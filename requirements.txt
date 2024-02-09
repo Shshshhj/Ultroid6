@@ -1,5 +1,22 @@
-# Important Requirements here.
-
+# Important Requirements 
+pyrofork
+tgcrypto
+wheel
+gunicorn
+flask
+humanize
+pygments
+ffmpeg-python
+pymongo
+Pillow>=9.0.0
+pytube
+click
+pymongo[srv]
+dnspython
+requests
+environs
+GitPython
+beautifulsoup4
 https://github.com/New-dev0/Telethon/archive/platy.zip
 python-decouple
 python-dotenv
