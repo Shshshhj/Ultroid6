@@ -11,6 +11,7 @@ pymongo
 Pillow>=9.0.0
 pytube
 click
+aiohttp
 pymongo[srv]
 dnspython
 requests
